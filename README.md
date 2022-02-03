@@ -1,4 +1,4 @@
-Project English Dictionary /
+Project English Dictionary \
 Satbek teacher
 
 
